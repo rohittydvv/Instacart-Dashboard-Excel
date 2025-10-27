@@ -36,7 +36,7 @@ It helps analyze **when** people order, **what** they buy, and **how frequently*
 
 ## 🎥 Dashboard Demo
 
-Here’s a short preview of how the dashboards function — applying filters, switching views, and clearing selections.
+Here’s a short preview of how the dashboards function — applying filters, switching dashboards, and clearing selections.
 
 ![Dashboard Demo](./dashboard_demo.gif)
 
